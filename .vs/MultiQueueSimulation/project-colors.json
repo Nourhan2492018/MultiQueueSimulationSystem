@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea31be33-5807-4e11-8716-c5ed9c14b3bb": {
+      "ProjectGuid": "ea31be33-5807-4e11-8716-c5ed9c14b3bb",
+      "DisplayName": "MultiQueueModels",
+      "ColorIndex": 0
+    },
+    "ddfa5358-863e-412d-9664-910a4864be94": {
+      "ProjectGuid": "ddfa5358-863e-412d-9664-910a4864be94",
+      "DisplayName": "MultiQueueSimulation",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
